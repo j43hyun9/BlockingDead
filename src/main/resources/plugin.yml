@@ -1,0 +1,7 @@
+name: BlockingDead
+version: '${project.version}'
+main: com.j43hyun9.blockingdead.BlockingDead
+api-version: '1.20'
+commands:
+  test:
+    description: "test"
