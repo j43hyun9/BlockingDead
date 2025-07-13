@@ -1,0 +1,6 @@
+# 기본값은 true 끄고 싶다면 false 로두면 됨
+worlds:
+  - world
+features:
+  thirst: false
+  bleeding: true
